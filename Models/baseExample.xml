@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <Title>Zmiana w H&amp;M</Title>
+    <Description>8.00 - 16.00</Description>
+    <Date>2024-04-28T13:23:52</Date>
+    <Type>Praca</Type>
+    <Priority>Wysoki</Priority>
+  </Event>
+  <Event>
+    <Title>Obiad u babci</Title>
+    <Description>koło 14.00</Description>
+    <Date>2024-04-29T13:23:52</Date>
+    <Type>Rodzina</Type>
+    <Priority>Średni</Priority>
+  </Event>
+  <Event>
+    <Title>Dentysta</Title>
+    <Description>Przychodnia nr.4, 13.15</Description>
+    <Date>2024-04-27T13:23:52</Date>
+    <Type>Zdrowie</Type>
+    <Priority>Wysoki</Priority>
+  </Event>
+  <Event>
+    <Title>Grill u Martyny</Title>
+    <Description>Kupić jedzenie, koło 19.00</Description>
+    <Date>2024-05-01T13:23:52</Date>
+    <Type>Rozrywka</Type>
+    <Priority>Średni</Priority>
+  </Event>
+  <Event>
+    <Title>Siłownia z Piotrkiem</Title>
+    <Description>Wieczorem jakoś</Description>
+    <Date>2024-04-29T13:23:52</Date>
+    <Type>Sport</Type>
+    <Priority>Niski</Priority>
+  </Event>
+  <Event>
+    <Title>Zrobić pranie</Title>
+    <Description>Ciemne kolory</Description>
+    <Date>2024-04-27T13:23:52</Date>
+    <Type>Inny</Type>
+    <Priority>Średni</Priority>
+  </Event>
+  <Event>
+    <Title>Ugotować obiad dla dziadka</Title>
+    <Description>Kotlety</Description>
+    <Date>2024-04-27T13:23:52</Date>
+    <Type>Inny</Type>
+    <Priority>Wysoki</Priority>
+  </Event>
+  <Event>
+    <Title>Zmiana w H&amp;M</Title>
+    <Description>14.00 - 21.30</Description>
+    <Date>2024-04-30T13:23:52</Date>
+    <Type>Praca</Type>
+    <Priority>Wysoki</Priority>
+  </Event>
+  <Event>
+    <Title>Siłownia</Title>
+    <Description>Rano</Description>
+    <Date>2024-04-30T13:23:52</Date>
+    <Type>Sport</Type>
+    <Priority>Niski</Priority>
+  </Event>
+</ArrayOfEvent>
