@@ -1,5 +1,5 @@
-# event-administrator
-The "Event Manager" application is designed and implemented using the WindowsForms technology with the application of the MVP (Model-View-Presenter) pattern.
+# Event Administrator
+The Event Manager application is designed and implemented using the `WindowsForms` technology with the application of the `Model-View-Presenter` pattern.
 
 Each event in the application has the following attributes:
 - Title
@@ -8,7 +8,7 @@ Each event in the application has the following attributes:
 - Type (work, family, entertainment, health, sports, other)
 - Priority (high, medium, low)
 
-The event collection is stored in XML files, ensuring efficient loading and enabling smooth manipulation and retrieval of event data within the application.
+The event collection is stored in `XML` files, ensuring efficient loading and enabling smooth manipulation and retrieval of event data within the application.
 
 The GUI is designed to provide an intuitive and user-friendly interface for managing events.
 
@@ -23,4 +23,8 @@ The GUI is designed to provide an intuitive and user-friendly interface for mana
 8. **Filtering Events**: Users have the option to filter events based on type, priority, and date, allowing them to focus on specific subsets of their event collection.
 9. **Sorting Events**: Events can be sorted based on type, priority, and date, facilitating organization and retrieval of relevant information.
 
-The "Event Manager" application provides a comprehensive solution for organizing and managing events effectively. By leveraging the MVP pattern and WindowsForms technology, it offers a robust and user-friendly interface for users to create, view, edit, and organize their events efficiently. With its intuitive features and functionalities, the application simplifies event management tasks and enhances user productivity.
+The Event Manager provides a comprehensive solution for organizing and managing events effectively. By leveraging the MVP pattern and WindowsForms technology, it offers a robust and user-friendly interface for users to create, view, edit, and organize their events efficiently. With its intuitive features and functionalities, the application simplifies event management tasks and enhances user productivity.
+
+### Preview
+![image](https://github.com/user-attachments/assets/1b8638c2-f5a5-4e8e-9752-ae9ad2c50a36)
+
